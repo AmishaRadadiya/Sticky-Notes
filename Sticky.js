@@ -10,7 +10,7 @@ var form = document.getElementsByClassName("form")
 let isDragging = false;
 let dragTarget;
 let lastOffsetX = 0;
-const notes = JSON.parse(localStorage.getItem("notes"));
+const notes = JSON.parse(localStorage.getItem("notes")) || [];
 let lastOffsetY = 0;
 console.log(notes)
 
