@@ -1,4 +1,4 @@
-import { set } from "./set.js";
+// import { set } from "./set.js";
 import { position } from "./noteposition.js";
 import { dlt } from "./dlt.js";
 export function createNote(id,title,text){
