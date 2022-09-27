@@ -46,7 +46,7 @@ body{
     /* font-weight: bold; */
     /* border-radius: 5px; */
     /* display: inline-block; */
-    position: fixed;
+    position: absolute;
     width: 150px;
     min-height: 170px;
     /* overflow-y: auto; */
